@@ -8,9 +8,14 @@
 	run-anaconda3-Jupyter Notebook
 or 	Anaconda PowerShell prompt, or  Anaconda Prompt  Windows PowerShell, or cmd
 
-* the data was download by  https://data.kma.go.kr
 
+*day 1
+01. 빅데이터 소개 및 시각화.pdf
+01_seoul.ipynb
+02_matplotlib.ipynb
+03_temperature.ipynb
+seoul.csv  (the data was download by  https://data.kma.go.kr)
 
-
-day 1
-01. 빅데이터 소개 및 시각화  1~3ipynb
+*day 2
+02_NumPy 기본.pdf
+Day 2 Numpy.ipynb
