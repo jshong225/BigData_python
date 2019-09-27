@@ -20,3 +20,6 @@ or 	Anaconda PowerShell prompt, or  Anaconda Prompt  Windows PowerShell, or c
 ## day 2(19.09.20)
 * 02_NumPy 기본.pdf
 * Day 2 Numpy.ipynb
+
+## day 3(19.09.27)
+* 03. pandas 시작하기
