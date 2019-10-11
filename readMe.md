@@ -25,5 +25,5 @@ or 	Anaconda PowerShell prompt, or  Anaconda Prompt  Windows PowerShell, or c
 * 03. pandas 시작하기.ipynb
 * 03. Pandas 시작하기.pdf
 
-## day 3(19.10.04)
-04_머신러닝이란.pdf
+## day 4(19.10.04)
+* 04_머신러닝이란.pdf
