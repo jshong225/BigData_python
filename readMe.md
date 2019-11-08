@@ -38,3 +38,13 @@ or 	Anaconda PowerShell prompt, or  Anaconda Prompt  Windows PowerShell, or c
  I heard this error is only occur in under scikit-learn version 0.20
  but my scikit-learn version is 0.21.2
  I tried to fix the error but failed..)
+
+## day 6(19.10.18)
+* 
+
+## day 7(19.11.01)
+* 07_모델훈련.pdf
+* model_training.ipynb
+
+## day 8(19.11.08)
+* 
