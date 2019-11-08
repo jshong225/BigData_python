@@ -51,4 +51,14 @@ or 	Anaconda PowerShell prompt, or  Anaconda Prompt  Windows PowerShell, or c
 * model_training.ipynb
 
 ## day 8(19.11.08)
-* 
+* Day_08\01.KaggleBike\Kaggle .ipynb
+* Day_08\01.KaggleBike\test.csv
+* Day_08\01.KaggleBike\train.csv
+
+* Day_08\02.DAEGU METRO\02. 대구 지하철 승하차 인원 분석(최종).ipynb
+* Day_08\02.DAEGU METRO\03. 대구도시철도공사_일별시간별승하차인원_20171231.csv
+* Day_08\02.DAEGU METRO\04. 대구도시철도공사_일별시간별승하차인원_20181231.csv
+* Day_08\02.DAEGU METRO\05. 대구도시철도공사_일별시간별승하차인원_20190831.csv
+* Day_08\02.DAEGU METRO\06. 대구도시철도공사_도시철도역사정보_20190923.csv
+
+* Day_08\03.APT RENT\aptrent.csv
