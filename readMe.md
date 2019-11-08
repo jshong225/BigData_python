@@ -38,13 +38,17 @@ or 	Anaconda PowerShell prompt, or  Anaconda Prompt  Windows PowerShell, or c
  I heard this error is only occur in under scikit-learn version 0.20
  but my scikit-learn version is 0.21.2
  I tried to fix the error but failed..)
+* 05_end_to_end_machine_learning_project.ipynb
+* (05_end_to_end_machine_learning_project.ipynb this file is the answer)
 
 ## day 6(19.10.18)
-* 
+* 06_분류.pdf
+* 06_classification.ipynb
+* 프로젝트 진행 상황 발표
 
 ## day 7(19.11.01)
 * 07_모델훈련.pdf
 * model_training.ipynb
 
 ## day 8(19.11.08)
-* 
+* 특강
